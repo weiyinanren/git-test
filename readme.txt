@@ -8,4 +8,5 @@ Creating a new branch is quick AND simple.
 commit a
 commit b
 commit test1
+commit future-a
 
