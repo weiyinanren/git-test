@@ -10,4 +10,4 @@ commit b
 commit test1
 commit future-a
 commit feature-1
-
+commit feature-2
