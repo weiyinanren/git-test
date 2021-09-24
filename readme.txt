@@ -13,3 +13,4 @@ commit feature-1
 commit feature-2
 
 commit master-1
+commit master-2
